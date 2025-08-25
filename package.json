@@ -1,0 +1,22 @@
+{
+  "name": "coding-challenges-ts",
+  "version": "1.0.0",
+  "description": "- \"src/arrays/\" => Array Challenges\r - \"src/string/\" => String Challenges",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "@types/jest": "^30.0.0"
+  },
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
+}
