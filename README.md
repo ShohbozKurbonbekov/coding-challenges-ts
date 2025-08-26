@@ -7,7 +7,7 @@
 
 ### Tech
 
-- Language: Typscript
+- Language: Typescript
 - Tests: Jest
 
 ### Stats
