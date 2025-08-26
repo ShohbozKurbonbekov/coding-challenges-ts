@@ -7,14 +7,17 @@
     "test": "tests"
   },
   "scripts": {
+    "start": "nodemon --exec ts-node src/easy-mix-challenges/counter.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.2",
-    "@types/jest": "^30.0.0"
+    "nodemon": "^3.1.10"
   },
   "dependencies": {
     "jest": "^30.0.5"
