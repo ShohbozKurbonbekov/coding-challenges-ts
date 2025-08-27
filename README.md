@@ -4,6 +4,7 @@
 
 - "src/arrays/" => Array Challenges
 - "src/string/" => String Challenges
+- "src/easy-mix-challenges/" => different types of challenges
 
 ### Tech
 
@@ -12,5 +13,5 @@
 
 ### Stats
 
-- 0 problems solved
+- 2 problems solved
 - Main focus: Arrays, Strings, ....
