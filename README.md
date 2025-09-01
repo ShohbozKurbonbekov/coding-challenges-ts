@@ -13,5 +13,5 @@
 
 ### Stats
 
-- 2 problems solved
+- 4 problems solved
 - Main focus: Arrays, Strings, ....
