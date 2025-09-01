@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "start": "nodemon --exec ts-node src/arrays/filter-elements-from-array.ts",
+    "start": "nodemon --exec ts-node src/arrays/apply-transform-element.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
