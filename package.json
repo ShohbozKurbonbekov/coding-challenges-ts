@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "start": "nodemon --exec ts-node src/objects/counter2.ts",
+    "start": "nodemon --exec ts-node src/strings/hello-world.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
