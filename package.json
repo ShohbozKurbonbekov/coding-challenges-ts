@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "start": "nodemon --exec ts-node src/arrays/array-prototype-last.ts",
+    "start": "nodemon --exec ts-node src/arrays/array-wrapper.ts",
     "start-js": "nodemon tests/test.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
